@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<populations>
+ <population Name="StartingGear_TrashMonk">
+    <group Style="pickeach">
+      <table Name="StartingGear_Common"></table>
+      <table Name="StartingGear_Common"></table>
+      <object Blueprint="HalfFullWaterskin" Number="2"></object>
+      <object Blueprint="FishingRod" Chance="70" Number="1"></object>
+	    <object Blueprint="Musical Instrument" Chance="33" Number="1"></object>
+      <object Blueprint="Autocycle" Chance="25" Number="1"></object>
+      <object Blueprint="Staff" Chance="85" Number="1"></object>
+      <object Blueprint="Dried Moxy" Chance="70" Number="2d6"></object>
+	  <!--<table Name="#Food 1" Number="3-4"></table>-->
+    </group>
+  </population>
+ </populations>

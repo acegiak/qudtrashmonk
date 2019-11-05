@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<subtypes Load="Merge">
+  <class ID="Callings" Load="Merge">
+    <subtype Name="Trash Monk" Gear="StartingGear_TrashMonk" Tile="Creatures/trashmonkplayer.png" DetailColor="w" Code="t" >
+      <stat Name="Willpower" Bonus="2" />
+      <skills>
+        <skill Name="Customs" />
+        <skill Name="Customs_TrashDivining" />
+        <skill Name="Tinkering_Scavenger" />
+        <skill Name="CookingAndGathering_Harvestry" />
+        <skill Name="CookingAndGathering_Butchery" />
+        <skill Name="acegiak_CookingAndGathering_Fishing" />
+      </skills>
+    </subtype>
+    </class>
+</subtypes>
