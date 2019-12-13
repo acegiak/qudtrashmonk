@@ -7,10 +7,10 @@
       <object Blueprint="HalfFullWaterskin" Number="2"></object>
       <object Blueprint="FishingRod" Chance="70" Number="1"></object>
 	    <object Blueprint="Musical Instrument" Chance="33" Number="1"></object>
-      <object Blueprint="Autocycle" Chance="15" Number="1"></object>
+      <!-- <object Blueprint="Autocycle" Chance="15" Number="1"></object> -->
       <object Blueprint="Staff" Chance="85" Number="1"></object>
       <object Blueprint="Dried Moxy" Chance="70" Number="2d6"></object>
-	  <!--<table Name="#Food 1" Number="3-4"></table>-->
+	    <table Name="#Food 1" Number="3-4"></table>
     </group>
   </population>
  </populations>
